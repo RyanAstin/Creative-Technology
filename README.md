@@ -1,43 +1,40 @@
 # Creative-Technology
-
-Assets/
-│
-├── Scripts/
-│   ├── PlayerInteractor.cs
-│   ├── PanelButton.cs
-│   ├── PanelSlider.cs
-│   ├── ControlPanelManager.cs
-│   ├── LaserShooter.cs
-│   ├── Target.cs
-│   ├── TargetSpawner.cs
-│   ├── ScoreManager.cs
-│   ├── GameTimer.cs
-│   └── IInteractable.cs
-│
-├── Materials/
-│   ├── Neon Materials
-│   ├── Transparent Glass Materials
-│   └── Neon Glow Materials
-│
-├── Prefabs/
-│   ├── Target.prefab
-│   ├── Control Panel Buttons
-│   ├── Volume Slider Handle
-│   └── Light Bulb Particles
-│
-├── Audio/
-│   ├── BackgroundMusic.mp3
-│   └── LaserShot.wav
-│
-├── Scenes/
-│   ├── LunarArena.unity
-│   └── (Optional) TestScene.unity
-│
-└── UI/
-    ├── ScoreText
-    ├── TimerText
-    └── CountdownText
-
+    
+    ASSESTS Folder Structure  
+    Scripts/
+        PlayerInteractor.cs
+        PanelButton.cs
+        PanelSlider.cs
+        ControlPanelManager.cs
+        LaserShooter.cs
+        Target.cs
+        TargetSpawner.cs
+        ScoreManager.cs
+        GameTimer.cs
+        IInteractable.cs
+    
+    Materials/
+        Neon Materials
+        Transparent Glass Materials
+        Neon Glow Materials
+        Prefabs/
+        Target.prefab
+        Control Panel Buttons
+        Volume Slider Handle
+        Light Bulb Particles
+    
+    Audio/
+        BackgroundMusic.mp3
+        LaserShot.wav
+     
+    Scenes/
+        LunarArena.unity
+        
+    
+    UI/
+        ScoreText
+        TimerText
+        CountdownText
 
 
 | Action                       | Key        |
